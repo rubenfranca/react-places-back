@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "rfranca",
+    "DB_PASSWORD": "admin",
+    "DB_NAME": "places",
+    "GOOGLE_API_KEY": "AIzaSyCYQo-VfDEayIBsnhZWvvB9LnVMLxyVWXY",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
